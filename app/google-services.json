@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871700238026",
+    "firebase_url": "https://eizaguirre-3241a.firebaseio.com",
+    "project_id": "eizaguirre-3241a",
+    "storage_bucket": "eizaguirre-3241a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871700238026:android:215784be5a4c925c",
+        "android_client_info": {
+          "package_name": "com.appandroid.app.eizaguirre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871700238026-e9kjtvqensb5ebpp0hkdr4n9u6ivp1hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzVfl0jrk6bTAQ3sZ7boNYttGcC-Jj9Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871700238026-e9kjtvqensb5ebpp0hkdr4n9u6ivp1hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

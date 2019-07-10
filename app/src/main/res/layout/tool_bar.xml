@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/toolbar2"
+    android:paddingStart="0dp"
+    android:paddingLeft="0dp"
+    android:textDirection="firstStrongLtr"
+    tools:layout_marginLeft="0dp"
+    tools:layout_marginStart="0dp">
+
+
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Eizaguirre</string>
+    <string name="title_activity_informacion">Informacion</string>
+
+
+
+    <string-array name="arraymodelo">
+
+        <item>
+            Selecciona Modelo...
+        </item>
+
+        <item>
+            ALMINA
+        </item>
+
+        <item>
+            GIRALDA
+        </item>
+
+        <item>
+           MARINA HORIZONTAL
+        </item>
+
+        <item>
+            ROMA
+        </item>
+
+        <item>
+           UNIVERSAL
+        </item>
+
+
+    </string-array>
+
+    <string-array name="arraycolor">
+
+        <item>
+            Selecciona Color...
+        </item>
+
+        <item>
+           BLANCO
+        </item>
+
+        <item>
+            MADERA CAOBA
+        </item>
+
+        <item>
+           GRIS SUSPIRO
+        </item>
+
+        <item>
+            BEIGE
+        </item>
+
+    </string-array>
+
+    <string-array name="tipo">
+
+        <item>
+            Selecciona Tipo...
+        </item>
+
+        <item>
+           WC
+        </item>
+
+        <item>
+            BIDÉ
+        </item>
+
+        <item>
+           SOFT
+        </item>
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+        <item  android:id="@+id/informacionMenu"
+               android:title="Ofertas"
+               android:icon="@android:drawable/ic_menu_info_details"
+
+            />
+
+        <item  android:id="@+id/salirMenu"
+                android:title="Salir"
+                android:icon="@android:drawable/ic_menu_help"
+
+
+        />
+
+
+</menu>
