@@ -1,2 +1,2 @@
-# Consulting products price app
+# products prices app
 Android app with Java and SQLite to consult prices of the company's products and code references.
