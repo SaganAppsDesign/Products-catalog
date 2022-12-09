@@ -1,7 +1,8 @@
 # Products prices.
 
-Android app with Java and SQLite to consult company's products prices and code references.
-
+- Android app.
+- Java code. 
+- SQLite.
 
 ![Screenshot_2022-12-08-21-34-51-57_b5a5c5cb02ca09c784c5d88160e2ec24](https://user-images.githubusercontent.com/37807677/206566160-9c6b213b-c8c4-4d02-9feb-6889864c0efd.jpg)
 
